@@ -1,0 +1,5 @@
+Private source revision: ce6d947e210fcfc794aa18fa58e96ed8925a9249
+Private source base: f0b4323591aaf65e838c48176c319ac89a670e61
+Additions: Google Workspace informational pages and footer link.
+Built on native Ubuntu with Node v22.23.3 using npm ci and npm run build.
+Direct-entry HTML copies preserve all existing declared React routes.
